@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./MN40301ucmf_15_0008.png"; bbox 0 0 2394 3392; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 191 298 1194 649">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 191 298 1194 649">
+     <span class='ocr_line' id='line_1_1' title="bbox 191 298 1194 649; baseline -0.004 -64"><span class='ocrx_word' id='word_1_1' title='bbox 191 298 907 649; x_wconf 79' lang='lat' dir='ltr'><strong>Leuthier,</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 969 299 1194 582; x_wconf 77' lang='lat' dir='ltr'>Mi</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 191 1267 1135 1636">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 37 1267 1173 1636">
+     <span class='ocr_line' id='line_1_2' title="bbox 191 1267 1135 1636; baseline -0.03 -78.609"><span class='ocrx_word' id='word_1_3' title='bbox 191 1275 553 1565; x_wconf 81' lang='lat' dir='ltr'>Viro</span> <span class='ocrx_word' id='word_1_4' title='bbox 611 1267 1135 1636; x_wconf 78' lang='lat' dir='ltr'>magni</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 202 1843 1160 2049">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 202 1843 1160 2049">
+     <span class='ocr_line' id='line_1_3' title="bbox 202 1843 1160 2049; baseline -0.018 1"><span class='ocrx_word' id='word_1_5' title='bbox 202 1847 767 2049; x_wconf 71' lang='lat' dir='ltr'>Summe</span> <span class='ocrx_word' id='word_1_6' title='bbox 823 1843 1160 2037; x_wconf 63' lang='lat' dir='ltr'>[QVO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1203 3392">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1203 3392">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1203 3392; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1203 3392; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 192 2722 1141 3074">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 192 2722 1141 3074">
+     <span class='ocr_line' id='line_1_5' title="bbox 192 2722 1141 3074; baseline -0.033 -42"><span class='ocrx_word' id='word_1_8' title='bbox 192 2722 1005 3074; x_wconf 78' lang='lat' dir='ltr'>Neustadii‚</span> <span class='ocrx_word' id='word_1_9' title='bbox 1087 2725 1141 3003; x_wconf 84' lang='lat'>1</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
